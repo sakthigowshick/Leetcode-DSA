@@ -50,8 +50,5 @@ class Solution {
         }
         temp.next=head;
         return temphead;
-
-        
-
     }
 }
