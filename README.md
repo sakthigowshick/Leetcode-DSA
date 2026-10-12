@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -65,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
