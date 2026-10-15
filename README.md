@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -99,4 +102,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
