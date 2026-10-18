@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/0137-single-number-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/sakthigowshick/Leetcode-DSA/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
